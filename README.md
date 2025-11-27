@@ -5,18 +5,18 @@
 Haiphong, Vietnam 🇻🇳 → 日本でエンジニアになるのが夢です 🇯🇵
 
 <p align="center">
-  <a href="https://github.com/Macquangdung?tab=repositories&sort=stargazers">
+  <a href="https://github.com/macqdung?tab=repositories&sort=stargazers">
     <img alt="Total Stars" title="Tổng số stars nhận được"
          src="https://img.shields.io/github/stars/Macquangdung?style=for-the-badge&color=84cc16&labelColor=3b820c&logo=star&logoColor=white&label=STARS" />
   </a>
 
  
-  <a href="https://github.com/Macquangdung?tab=followers">
+  <a href="https://github.com/macqdung?tab=followers">
     <img alt="Followers" title="Follow mình trên GitHub"
          src="https://img.shields.io/github/followers/Macquangdung?style=for-the-badge&color=0ea5e9&labelColor=0369a1&logo=github&logoColor=white&label=FOLLOWERS" />
   </a>
 
-<a href="https://github.com/Macquangdung/Macquangdung">
+<a href="https://github.com/macqdung/macqdung">
   <img alt="Profile Views" title="Số lượt xem profile" 
        src="https://img.shields.io/badge/VISITORS-561+-8B46FF?style=for-the-badge&labelColor=6B2D5C&logo=eye&logoColor=white" />
 </a>
@@ -31,22 +31,22 @@ Haiphong, Vietnam 🇻🇳 → 日本でエンジニアになるのが夢です 
 <details open>
   <summary><h2>📘My Top Projects</h2></summary>
    <p align="left">
-    <a href="https://github.com/Macquangdung/Cakeshopfrontend">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Macquangdung&repo=Cakeshopfrontend&theme=tokyonight&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Cakeshopfrontend"/>
+    <a href="https://github.com/macqdung/Cakeshopfrontend">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=macqdung&repo=Cakeshopfrontend&theme=tokyonight&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Cakeshopfrontend"/>
        </a>
-    <a href="https://github.com/Macquangdung/Cakeshopbackend">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Macquangdung&repo=Cakeshopbackend&theme=tokyonight&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Cakeshopbackend"/>
+    <a href="https://github.com/macqdung/Cakeshopbackend">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=macqdung&repo=Cakeshopbackend&theme=tokyonight&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Cakeshopbackend"/>
     </a>
-    <a href="https://github.com/Macquangdung/NCKH">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Macquangdung&repo=NCKH&theme=tokyonight&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="NCKH"/>
+    <a href="https://github.com/macqdung/NCKH">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=macqdung&repo=NCKH&theme=tokyonight&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="NCKH"/>
     </a>
    </p>
    </details>
 
 <details open>
 <summary><h2>📊 統計・活動状況</h2></summary> <h3>🔥 Streak Stats</h3> <div align="center">
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=Macquangdung&theme=tokyonight&hide_border=true" height="195" alt="Streak Stats"/>
-</div> <h3>💻 GitHub プロファイル統計</h3> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Macquangdung&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="192px" alt="GitHub Stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macquangdung&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" height="192px" alt="Top Languages"/> </p> <p align="center"><b>注意：</b> 上位言語は公開リポジトリのみの統計であり、実際のスキルレベルを完全に表すものではありません。</p> <h3>📈 最近の活動グラフ</h3> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Macquangdung&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Activity Graph"/> </p> </details>
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=macqdung&theme=tokyonight&hide_border=true" height="195" alt="Streak Stats"/>
+</div> <h3>💻 GitHub プロファイル統計</h3> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=macqdung&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="192px" alt="GitHub Stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=macqdung&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" height="192px" alt="Top Languages"/> </p> <p align="center"><b>注意：</b> 上位言語は公開リポジトリのみの統計であり、実際のスキルレベルを完全に表すものではありません。</p> <h3>📈 最近の活動グラフ</h3> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=macqdung&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Activity Graph"/> </p> </details>
 
 <details open > 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
@@ -55,15 +55,15 @@ Haiphong, Vietnam 🇻🇳 → 日本でエンジニアになるのが夢です 
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
   <p>
-      <a href="https://github.com/search?q=user%3AMacquangdung+language%3Ac%2B%2B"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Amacqdung+language%3Ac%2B%2B"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
       <a href=""><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3AMacquangdung+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3AMacquangdung+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3AMacquangdung+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3AMacquangdung+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-      <a href="https://github.com/search?q=user%3AMacquangdung+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3AMacquangdung+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3AMacquangdung+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Amacqdung+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Amacqdung+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Amacqdung+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Amacqdung+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+      <a href="https://github.com/search?q=user%3Amacqdung+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Amacqdung+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Amacqdung+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
   </p>
 
   <h3>🧰 Frameworks and Libraries</h3>
