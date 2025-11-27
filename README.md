@@ -7,13 +7,13 @@ Haiphong, Vietnam 🇻🇳 → 日本でエンジニアになるのが夢です 
 <p align="center">
   <a href="https://github.com/macqdung?tab=repositories&sort=stargazers">
     <img alt="Total Stars" title="Tổng số stars nhận được"
-         src="https://img.shields.io/github/stars/Macquangdung?style=for-the-badge&color=84cc16&labelColor=3b820c&logo=star&logoColor=white&label=STARS" />
+         src="https://img.shields.io/github/stars/macqdung?style=for-the-badge&color=84cc16&labelColor=3b820c&logo=star&logoColor=white&label=STARS" />
   </a>
 
  
   <a href="https://github.com/macqdung?tab=followers">
     <img alt="Followers" title="Follow mình trên GitHub"
-         src="https://img.shields.io/github/followers/Macquangdung?style=for-the-badge&color=0ea5e9&labelColor=0369a1&logo=github&logoColor=white&label=FOLLOWERS" />
+         src="https://img.shields.io/github/followers/macqdung?style=for-the-badge&color=0ea5e9&labelColor=0369a1&logo=github&logoColor=white&label=FOLLOWERS" />
   </a>
 
 <a href="https://github.com/macqdung/macqdung">
