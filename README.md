@@ -100,7 +100,7 @@ Haiphong, Vietnam 🇻🇳 → 日本でエンジニアになるのが夢です 
 </a></p>
 </details>
 
-### Recent Activity
+### 💡 Recent Activity
 <!-- Phần này GitHub tự cập nhật, bạn có thể thêm manual nếu cần -->
 - 最新: NCKHプロジェクトを更新中
 - グループ開発: ケーキ販売サイト完成
