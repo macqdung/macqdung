@@ -93,7 +93,8 @@ Haiphong, Vietnam 🇻🇳 → 日本でエンジニアになるのが夢です 
 
 <details open> 
   <summary><h2>🏷️ Credly Badges</h2></summary>
-  <p><a href="https://www.credly.com/users/m-c-dung/edit#credly"><img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/6b0040fc-931d-4ffb-95f7-ab3aef057439" />
+  <p><a href="https://www.credly.com/users/m-c-dung/edit#credly"><img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/95a5cb4c-f631-4478-a85d-f86fbfb0b6de" />
+
 
 
 </a></p>
