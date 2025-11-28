@@ -16,9 +16,9 @@ Haiphong, Vietnam 🇻🇳 → 日本でエンジニアになるのが夢です 
          src="https://img.shields.io/github/followers/macqdung?style=for-the-badge&color=0ea5e9&labelColor=0369a1&logo=github&logoColor=white&label=FOLLOWERS" />
   </a>
 
-<a href="https://github.com/macqdung/macqdung">
-  <img alt="Profile Views" title="Số lượt xem profile" 
-       src="https://img.shields.io/badge/VISITORS-561+-8B46FF?style=for-the-badge&labelColor=6B2D5C&logo=eye&logoColor=white" />
+<a href="https://github.com/Macquangdung/Macquangdung">
+  <img alt="Profile Views" title="Số lượt xem profile"
+       src="https://komarev.com/ghpvc/?username=Macquangdung&color=8B46FF&style=for-the-badge&label=VISITORS&labelColor=FFFFFF&logo=eye&logoColor=white" />
 </a>
 </p>
 
