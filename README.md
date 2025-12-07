@@ -46,8 +46,8 @@ Haiphong, Vietnam 🇻🇳 → 日本でエンジニアになるのが夢です 
 <details open>
 <summary><h2>📊 統計・活動状況</h2></summary> <h3>🔥 Streak Stats</h3> <div align="center">
   <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=macqdung&theme=tokyonight&hide_border=true" height="195" alt="Streak Stats"/>
-</div> <h3>💻 GitHub プロファイル統計</h3> <p align="center"><img src="stats.svg" alt="GitHub Stats" height="192px"/>
-  <img src="top-langs.svg" alt="Top Languages" height="192px"/> </p> <p align="center"><b>注意：</b> 上位言語は公開リポジトリのみの統計であり、実際のスキルレベルを完全に表すものではありません。</p> <h3>📈 最近の活動グラフ</h3> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=macqdung&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Activity Graph"/> </p> </details>
+</div> <h3>💻 GitHub プロファイル統計</h3> <p align="center"><img src="stats.svg" height="192px" alt="GitHub Stats"/>
+  <img src="top-langs.svg" height="192px" alt="Top Languages"/> </p> <p align="center"><b>注意：</b> 上位言語は公開リポジトリのみの統計であり、実際のスキルレベルを完全に表すものではありません。</p> <h3>📈 最近の活動グラフ</h3> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=macqdung&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Activity Graph"/> </p> </details>
 
 <details open > 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
