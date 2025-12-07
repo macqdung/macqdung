@@ -1,8 +1,8 @@
 name: Update GitHub Stats Daily
-
 on:
   schedule:
-    - cron: '0 18 * * *'    # chạy mỗi ngày lúc 1h sáng giờ Việt Nam
+    - cron: '0 18 * * *'
+ 1,3,5'   # chạy thứ 2-4-6 lúc 1h sáng (để đỡ rate-limit)
   workflow_dispatch:
 
 jobs:
@@ -10,12 +10,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      
+
       - name: Generate stats cards
         run: |
-          curl -s "https://github-readme-stats.vercel.app/api?username=macqdung&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&cache_seconds=86400" -o stats.svg
-          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=macqdung&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&cache_seconds=86400" -o top-langs.svg
-          
+          curl -s -H "Accept: image/svg+xml" \
+            "https://github-readme-stats.vercel.app/api?username=macqdung&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&cache_seconds=86400" \
+            --fail --output stats.svg || echo "<svg width='495' height='195'><rect width='100%' height='100%' fill='#FF0000'/><text x='10' y='50' fill='white'>No data – check workflow logs</text></svg>" > stats.svg
+
+          curl -s -H "Accept: image/svg+xml" \
+            "https://github-readme-stats.vercel.app/api/top-langs/?username=macqdung&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&cache_seconds=86400" \
+            --fail --output top-langs.svg || echo "<svg width='400' height='195'><rect width='100%' height='100%' fill='#FF0000'/><text x='10' y='50' fill='white'>No data</text></svg>" > top-langs.svg
+
       - name: Commit SVG files
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
